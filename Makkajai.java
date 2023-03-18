@@ -1,5 +1,3 @@
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
 // game size is 10 by default which is a sqare grid of size 10x10
 // Please input the coordinates separated by a space
 // Example input shape : 
