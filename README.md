@@ -1,5 +1,5 @@
 # makkajai-challenge
-Coding challenge for makkajai
+Coding challenge for makkajai. Please compile the Makkajai.java file
 
 ## Input the number of coordinates
 Enter the number of input coordinates when prompted
